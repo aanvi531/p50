@@ -1,0 +1,38 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    border-color: aqua;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    color: antiquewhite;
+    border: solid;
+    border-color: aqua;
+}
+
+.waffle{
+    text-align: left;
+}
+
+.aboutMe{
+    text-align: right;
+}
+
+.title{
+    text-align: center;
+    font-size: 100;
+}
+
+*{
+    background: palevioletred;
+    font-family: fantasy;
+}
+
+li{
+    text-align: left;
+}
